@@ -4,7 +4,7 @@
     <application
         android:allowBackup="true"
         android:label="Minecraft Komutçu"
-        android:theme="@style/Theme.MinecraftKomutcu">
+        android:theme="@android:style/Theme.Material.NoActionBar">
 
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
